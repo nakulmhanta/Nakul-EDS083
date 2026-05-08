@@ -25,16 +25,15 @@ Section| Description
 📦 CodeTantra Practicals
 
 
-- "Grade Calculation" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/Practical%2001/lab_01_grades.py)
+- "Practical 1" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/PRACTICAL%201.pdf)
 
-- "Fibonacci Sequence" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/Practical%2001/lab_02_fibonacci.py)
+- "Practical 2" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/PRACTICAL%202.pdf)
 
-- "Pattern Printing" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/Practical%2001/lab_03_patterns.py)
+- "Practical 3" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/PRACTICAL%203.pdf)
+  
+- "Practical 4" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/PRACTICAL%204.pdf)
 
-- "Momentum Calculation" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/Practical%2001/practice_01_momentum.py)
-
-- "Conditional Operations" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/Practical%2001/practice_02_conditions.py)
-
+- "Practical 5" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/CodeTantra%20Practicals/PRACTICAL%205.pdf)
 
 
 ---
@@ -45,8 +44,11 @@ Section| Description
 
 - "Python Essentials 1 Certificate" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/Certificates/Python_Essentials_1_certificate_mhantanakul-gmail-com_255ecfa8-97d7-46e8-9775-092284badae5.pdf)
 
-- "Python Essentials 2 Certificate" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/Certificates/Python_Essentials_2_certificate_mhantanakul-gmail-com.pdf)
+- "Python Essentials 2 Certificate" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/Certificates/Python_Essentials_2_certificate_mhantanakul-gmail-com_0a49859c-cf48-47d2-a728-07ab775a96a0.pdf)
 
-- "IBM Certification" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/IBM%20Certification)
+- "IBM Certification" (https://github.com/nakulmhanta/Nakul-EDS083/blob/main/Certificates/WhatsApp%20Image%202026-05-08%20at%2011.39.51%20PM.jpeg)
 
 ---
+
+Video Link
+-"Priskilet Video " (https://youtu.be/dV_aLt9KpwA?si=bB8a1Y7xuvCRpOf7)
